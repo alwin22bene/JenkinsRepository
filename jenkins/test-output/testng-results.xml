@@ -2,28 +2,28 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="186" started-at="2020-01-05T15:26:24 EST" finished-at="2020-01-05T15:26:24 EST">
+  <suite name="Default suite" duration-ms="154" started-at="2020-03-21T11:56:47 EDT" finished-at="2020-03-21T11:56:47 EDT">
     <groups>
     </groups>
-    <test name="Test" duration-ms="186" started-at="2020-01-05T15:26:24 EST" finished-at="2020-01-05T15:26:24 EST">
+    <test name="Default test" duration-ms="154" started-at="2020-03-21T11:56:47 EDT" finished-at="2020-03-21T11:56:47 EDT">
       <class name="endtoend.TC01">
-        <test-method status="PASS" signature="testone()[pri:0, instance:endtoend.TC01@3d0f8e03]" name="testone" duration-ms="2" started-at="2020-01-05T15:26:24 EST" finished-at="2020-01-05T15:26:24 EST">
+        <test-method status="PASS" signature="testone()[pri:0, instance:endtoend.TC01@4148db48]" name="testone" duration-ms="28" started-at="2020-03-21T11:56:47 EDT" finished-at="2020-03-21T11:56:47 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testone -->
       </class> <!-- endtoend.TC01 -->
       <class name="endtoend.TC02">
-        <test-method status="PASS" signature="testtwo()[pri:0, instance:endtoend.TC02@543e710e]" name="testtwo" duration-ms="26" started-at="2020-01-05T15:26:24 EST" finished-at="2020-01-05T15:26:24 EST">
+        <test-method status="PASS" signature="testtwo()[pri:0, instance:endtoend.TC02@282003e1]" name="testtwo" duration-ms="6" started-at="2020-03-21T11:56:47 EDT" finished-at="2020-03-21T11:56:47 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testtwo -->
       </class> <!-- endtoend.TC02 -->
       <class name="endtoend.TC03">
-        <test-method status="PASS" signature="testthree()[pri:0, instance:endtoend.TC03@57f23557]" name="testthree" duration-ms="11" started-at="2020-01-05T15:26:24 EST" finished-at="2020-01-05T15:26:24 EST">
+        <test-method status="PASS" signature="testthree()[pri:0, instance:endtoend.TC03@7fad8c79]" name="testthree" duration-ms="2" started-at="2020-03-21T11:56:47 EDT" finished-at="2020-03-21T11:56:47 EDT">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testthree -->
       </class> <!-- endtoend.TC03 -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
